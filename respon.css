@@ -1,0 +1,38 @@
+@media only screen and (max-width: 999px){
+
+  .container{
+
+    height: 150px;
+    width: 290px;
+    padding: 10px;
+    overflow: hidden;
+  }  
+
+  .container div{
+    height: 120px;
+    width: 150px;
+  
+  }
+
+  .container_day div{   
+    font-size: 25px;
+  }
+
+  body{
+  
+    background-size: cover;
+    background-image: url('img/wp7865605.webp');
+
+  }
+
+}
+
+@media only screen and (min-width: 999px){
+  body{
+  
+    background-size: cover;
+    background-image: url('img/sunset-horizon-scenery-landscape-art-uhdpaper.com-4K-178.jpg');
+
+
+  }
+}

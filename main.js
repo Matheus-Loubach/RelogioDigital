@@ -1,7 +1,7 @@
 const r_Digital = () => {
 
   day = new Array ("domingo", "segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado")
-  month = new Array ("Janeiro", "Fevereiro", "Março", "abril", "Maio", "junho", "agosto", "outubro", "novembro", "dezembro")
+  month = new Array ("Janeiro", "Fevereiro", "Março", "abril", "Maio", "junho","Julho", "agosto","Setembro", "outubro", "novembro", "dezembro")
 
   const horas = document.getElementById('horas')
   const minutos = document.getElementById('minutos')
